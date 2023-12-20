@@ -1,0 +1,4 @@
+LineName,NodeFrom,NodeTo,Reactance,MaxCapacity
+Line_1_2,1,2,0.1,200
+Line_1_3,1,3,0.2,150
+Line_2_3,2,3,0.3,200

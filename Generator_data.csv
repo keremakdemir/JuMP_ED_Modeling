@@ -1,0 +1,5 @@
+GenName,Node,MarginalCost,MaxGen,MinGen
+A,2,12,150,0
+B,1,15,200,0
+C,3,10,150,0
+D,3,8,400,0
